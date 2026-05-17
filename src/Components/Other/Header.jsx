@@ -1,34 +1,3 @@
-// import React from 'react'
-
-// const Header = ({ data, handleLogout}) => {
-//   return (
-//     <div className="flex items-center justify-between mb-10">
-//       <h1 className="text-2xl font-medium text-white">
-//         Hello {data?.name || 'Admin'} <br />
-//         <span className="text-3xl text-white font-semibold">{data?.name} 👋</span>
-//       </h1>
-//       <button
-//         onClick={handleLogout}
-//         className="bg-red-600 text-lg font-medium text-white px-5 py-2 rounded-xl"
-//       >
-//         Log Out
-//       </button>
-//     </div>
-//   )
-// }
-
-// export default Header
-
-
-
-
-
-
-
-
-
-
-
 import React from 'react'
 
 const Header = ({ data, handleLogout }) => {

@@ -1,30 +1,3 @@
-// import React from 'react'
-
-// const TaskListNumber = ({ data }) => {
-//   const { taskNumbers } = data
-
-//   return (
-//     <div className="flex gap-10 mb-10">
-//       <div className="bg-gray-800 p-5 rounded-xl text-white">
-//         Active: {taskNumbers.active}
-//       </div>
-//       <div className="bg-gray-800 p-5 rounded-xl text-white">
-//         New: {taskNumbers.newTask}
-//       </div>
-//       <div className="bg-gray-800 p-5 rounded-xl text-white">
-//         Completed: {taskNumbers.completed}
-//       </div>
-//       <div className="bg-gray-800 p-5 rounded-xl text-white">
-//         Failed: {taskNumbers.failed}
-//       </div>
-//     </div>
-//   )
-// }
-
-// export default TaskListNumber
-
-
-
 import React from 'react'
 
 const TaskListNumber = ({ data }) => {
